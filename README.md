@@ -3,5 +3,5 @@ See the Future: A Semantic Segmentation Network Predicting Ego-vehicle Trajector
 
 The demo video:
  
-[![Watch the video](https://img.youtube.com/vi/f7lMUyN2AOA/0.jpg)](https://youtu.be/T-f7lMUyN2AOA)
+[![Watch the video](https://img.youtube.com/vi/f7lMUyN2AOA/0.jpg)](https://www.youtube.com/watch?v=f7lMUyN2AOA)
 
